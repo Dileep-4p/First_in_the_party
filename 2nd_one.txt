@@ -1,0 +1,2 @@
+    -n, --dry-run         dry run
+    -v, --verbose         be verbose
